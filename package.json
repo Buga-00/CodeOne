@@ -1,0 +1,27 @@
+{
+  "name": "codeone",
+  "version": "1.0.0",
+  "description": "* [ ] Say hello to react - Parcel generates React App from jsx\r * [ ] Routing request in React - navigate\r * [ ] List existing movies\r * [ ] Add new movie using form and state\r * [ ] Encapsulate movie database\r * [ ] Express app\r * [ ] Move API to server\r * [ ] Deploy to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buga-00/CodeOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buga-00/CodeOne/issues"
+  },
+  "homepage": "https://github.com/Buga-00/CodeOne#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
